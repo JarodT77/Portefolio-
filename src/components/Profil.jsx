@@ -37,8 +37,8 @@ function Profil() {
       {/* Bouton Télécharger CV */}
       <div className="mt-10 text-center">
         <a
-          href="/src/icones/wordpress_icone.png"
-          download="wordpress_icone.png"
+          href="/CV JAROD.pdf"
+          download="CVJAROD.pdf"
           className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-900 transition"
         >
           Télécharger mon CV
