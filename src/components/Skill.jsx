@@ -11,19 +11,19 @@ function Skill() {
           <div className="grid grid-cols-2 gap-4">
             <div className="flex flex-col items-center">
               <img
-                src="/src/icones/arcadia2.png"
+                src="/icones/html_icone.png"
                 alt="HTML Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
               <p className="mb-4">HTML</p>
               <img
-                src="/src/icones/css_icone.png"
+                src="/icones/css_icone.png"
                 alt="CSS Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
               <p className="mb-4">CSS</p>
               <img
-                src="/src/icones/javascipt_icone.png"
+                src="/icones/javascipt_icone.png"
                 alt="JavaScript Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
@@ -31,19 +31,19 @@ function Skill() {
             </div>
             <div className="flex flex-col items-center">
               <img
-                src="src/icones/bootstrap_icone.png"
+                src="/icones/bootstrap_icone.png"
                 alt="Bootstrap Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
               <p className="mb-4">Bootstrap</p>
               <img
-                src="/src/icones/tailwind_icone.png"
+                src="/icones/tailwind_icone.png"
                 alt="Tailwind Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
               <p className="mb-4">Tailwind</p>
               <img
-                src="/src/icones/react_icone - .png"
+                src="/icones/react_icone - .png"
                 alt="React Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
@@ -58,7 +58,7 @@ function Skill() {
           <div className="grid grid-cols-2 gap-4">
             <div className="flex flex-col items-center">
               <img
-                src="/src/icones/php_icone.png"
+                src="/icones/php_icone.png"
                 alt="PHP Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
@@ -66,7 +66,7 @@ function Skill() {
             </div>
             <div className="flex flex-col items-center">
               <img
-                src="/src/icones/sql_icone.png"
+                src="/icones/sql_icone.png"
                 alt="SQL Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
@@ -81,13 +81,13 @@ function Skill() {
           <div className="grid grid-cols-2 gap-4">
             <div className="flex flex-col items-center">
               <img
-                src="/src/icones/shopify_icone.png"
+                src="/icones/shopify_icone.png"
                 alt="Shopify Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
               <p className="mb-4">Shopify</p>
               <img
-                src="/src/icones/wordpress_icone.png"
+                src="/icones/wordpress_icone.png"
                 alt="WordPress Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />
@@ -95,7 +95,7 @@ function Skill() {
             </div>
             <div className="flex flex-col items-center">
               <img
-                src="/src/icones/figma_icone.png"
+                src="/icones/figma_icone.png"
                 alt="Figma Icon"
                 className="w-10 md:w-12 lg:w-14 mb-2"
               />

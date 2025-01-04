@@ -14,7 +14,7 @@ function Project() {
         <div className="bg-blue-600 px-4 py-4 rounded-xl">
           <div className="flex justify-center">
             <img
-              src="/src/icones/arcadia2.png"
+              src="/icones/arcadia2.png"
               alt="Zoo d'Arcadia"
               className="rounded-lg w-full max-w-xs"
             />
@@ -28,7 +28,7 @@ function Project() {
         <div className="bg-blue-600 px-4 py-4 rounded-xl">
           <div className="flex justify-center">
             <img
-              src="/src/icones/Blog.png"
+              src="/icones/Blog.png"
               alt="Les voyages de Jarod"
               className="rounded-lg w-full max-w-xs"
             />
@@ -44,7 +44,7 @@ function Project() {
         <div className="bg-blue-600 px-4 py-4 rounded-xl">
           <div className="flex justify-center">
             <img
-              src="/src/icones/Portefolio.png"
+              src="/icones/Portefolio.png"
               alt="Portfolio"
               className="rounded-lg w-full max-w-xs"
             />

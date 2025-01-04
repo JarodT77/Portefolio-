@@ -74,7 +74,7 @@ function ContactForm() {
           <div className="space-y-6">
             <div className="text-center bg-blue-600 p-6 rounded-xl">
               <img
-                src="/src/icones/email.png"
+                src="/icones/email.png"
                 className="w-12 h-12 mx-auto mb-4"
                 alt="Email Icon"
               />
@@ -86,13 +86,13 @@ function ContactForm() {
               <div className="flex justify-center gap-4">
               <a href="https://github.com/JarodT77" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition duration-300">
                 <img
-                  src="/src/icones/github.png"
+                  src="/icones/github.png"
                   alt="GitHub Icon"
                   className="w-10 h-10"
                 /></a>
                 <a href="https://www.linkedin.com/in/jarod-thongkhamdy-ba168119b/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition duration-300">
                 <img
-                  src="/src/icones/linkedin.png"
+                  src="/icones/linkedin.png"
                   alt="LinkedIn Icon"
                   className="w-10 h-10"
                 /></a>
