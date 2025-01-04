@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactForm() {
   return (
-    <section id="contact" className="mt-20 px-6 pb-10 md:px-20">
+    <section id="contact" className="mt-20 lg:mx-20 px-6 pb-10 md:px-20">
       <h1 className="text-2xl text-center"><b>Me contacter</b></h1>
       <h2 className="text-lg text-center mb-10">
         Vous pouvez me contacter via le formulaire ou les liens proposés

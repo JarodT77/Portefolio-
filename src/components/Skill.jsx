@@ -2,7 +2,7 @@ import React from "react";
 
 function Skill() {
   return (
-    <section id="skill" className="mt-20 px-6 md:px-20">
+    <section id="skill" className="mt-20 lg:mx-20 px-6 md:px-20">
       <h1 className="text-2xl text-center mb-10"><b>Mes Compétences</b></h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {/* FRONTEND */}

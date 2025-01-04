@@ -2,7 +2,7 @@ import React from 'react';
 
 function Project() {
   return (
-    <section id="project" className="mt-20 px-6 md:px-20">
+    <section id="project" className="mt-20 lg:mx-20 px-6 md:px-20">
       <h1 className="text-2xl text-center"><b>Mes Projets</b></h1>
       <h2 className="text-lg text-center mb-10">
         Quelques exemples de mes réalisations

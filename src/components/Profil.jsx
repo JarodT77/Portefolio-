@@ -3,14 +3,14 @@ import ProfilImage from "../assets/images/profil.jpg";
 
 function Profil() {
   return (
-    <section id="profil" className="mt-20 px-6 md:px-20">
+    <section id="profil" className="mt-20 lg:mx-20 px-6 md:px-20">
       <h1 className="text-2xl text-center mb-10"><b>À propos de moi</b></h1>
       <div className="flex flex-col md:flex-row items-center md:items-start">
         {/* Image de profil */}
-        <img src={ProfilImage} alt="Photo de profil" className="w-80 h-80 sm:w-72 sm:h-72 md:w-60 md:h-60 lg:w-80 lg:h-80 rounded-xl"/>
+        <img src={ProfilImage} alt="Photo de profil" className="w-80 h-80 mt-4 sm:w-72 sm:h-72 md:w-60 md:h-60 lg:w-80 lg:h-80 rounded-xl"/>
 
         {/* Texte de présentation */}
-        <p className="text-justify md:text-left md:ml-10 text-lg">
+        <p className="text-justify md:text-left md:ml-10 text-lg mt-4">
           Je me présente, je m'appelle Jarod. Après avoir travaillé dans la
           vente, je me suis récemment reconverti dans le domaine du
           développement web, une passion que j'ai découverte en créant de petits
