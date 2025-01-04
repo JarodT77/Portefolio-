@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background: linear-gradient(to left, #0b1828, #131313);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
