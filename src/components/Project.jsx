@@ -14,7 +14,7 @@ function Project() {
         <div className="bg-blue-600 px-4 py-4 rounded-xl">
           <div className="flex justify-center">
             <img
-              src="/icones/Arcadia2.png"
+              src="/icones/arcardia2.png"
               alt="Zoo d'Arcadia"
               className="rounded-lg w-full max-w-xs"
             />
