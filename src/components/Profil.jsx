@@ -37,7 +37,7 @@ function Profil() {
       {/* Bouton Télécharger CV */}
       <div className="mt-10 text-center">
         <a
-          href="/public/icones/wordpress_icone.png"
+          href="/src/icones/wordpress_icone.png"
           download="wordpress_icone.png"
           className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-900 transition"
         >
